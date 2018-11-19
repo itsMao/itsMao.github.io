@@ -1,7 +1,7 @@
 # Site settings
 title: MAO BLOG
-SEOTitle: Aaron Mao的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+SEOTitle: Aaron Mao的博客 | MAO Blog
+header-img: img/home.bg-o.jpg
 email: 1558963508@qq.com
 description: "Welcome to my personal blog"
 keyword: "MAO, MAO Blog, Aaron Mao的博客, Mao Yongjian, Aaron Mao, iOS, Apple, iPhone"
@@ -11,8 +11,8 @@ github_repo: "https://github.com/itsMao/itsMao.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "A college student who is learning something!"
-# sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "A college student who keep learning "
+sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -97,9 +97,9 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    }
-]
+# friends: [
+#    {
+#        title: "简书·BY",
+#        href: "http://www.jianshu.com/u/e71990ada2fd"
+#    }
+#]
